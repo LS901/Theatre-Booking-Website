@@ -1,0 +1,76 @@
+html{
+	background-image: url("images/background_image.png");
+}
+
+#mainframe {
+
+	background-color:#1d191f;
+	border-width:5px;  
+    border-style:double;
+	text-align:center;
+	
+	padding:20px;
+	width: 400px;
+    height: 320px;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+	overflow: auto;
+	display:none;
+
+}	
+
+
+h1{
+	
+	font-family: 'Droid serif', serif; 
+	font-weight: 400; 
+	font-style: italic; 
+	line-height: 44px;
+	color: #b48608;
+	border-bottom:2px solid #AAA;
+	padding-bottom:3px;
+	margin-bottom:0px;
+
+}
+
+h2{
+	margin-top:12px;
+	font-family: 'Droid Serif', sans-serif;
+	font-size: 20px;
+	color: #AAA;
+}
+
+ 
+
+
+table {
+	
+	margin-left:auto;
+	margin-right:auto;
+	padding-bottom:20px;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 15px;
+	color: #AAA; 
+
+}
+
+td {
+	padding:5px;
+}
+
+.returnbuttons{
+	margin-top:10px;
+}
+
+#insertemail{
+	font-family: 'Droid Sans', sans-serif;	
+	color: #AAA;
+	font-size:15px;
+}
+
